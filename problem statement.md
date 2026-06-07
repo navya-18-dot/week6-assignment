@@ -1,0 +1,1 @@
+Build a complete machine learning pipeline to predict customer churn for a telecommunications company. You'll preprocess the data, engineer features, train multiple classification models, tune hyperparameters, and evaluate model performance. The final deliverable is a reusable pipeline that can make predictions on new customer data.
